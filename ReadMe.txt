@@ -16,3 +16,5 @@ Unity 2D, C#, VisualStudio, Adobe Illustrator.
 
 Установка
 Установка .exe приложения на ПК.
+
+Установка apk файла на смартфон на базе Android
